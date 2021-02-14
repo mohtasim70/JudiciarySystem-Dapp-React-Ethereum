@@ -23,13 +23,13 @@ Execution requirements:
 4.       Truffle
 ------------------------------------
 Execution Steps:
-           Turn on  Ganache QuickStart workspace
-           Run truffle migrate on “ProjectIBC” folder
-           Run Truffle console in this folder
-           Now move to JudApp in “ProjectIBC” folder
-           Now “npm install” in JudApp folder
-           Now npm install materialize-css@next
-           After this “npm start” to run react app
+ 1.          Turn on  Ganache QuickStart workspace
+ 2.          Run truffle migrate on “ProjectIBC” folder
+ 3.          Run Truffle console in this folder
+ 4.          Now move to JudApp in “ProjectIBC” folder
+ 5.          Now “npm install” in JudApp folder
+ 6.          Now npm install materialize-css@next
+ 7.          After this “npm start” to run react app
 
 
 
