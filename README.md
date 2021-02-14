@@ -15,6 +15,9 @@ Features:
 8.       If the Civilian wins the case then the fee is refunded to the Civilian otherwise complete fee is now non refundable 
 9.       All the steps are handled using the smart contract 
 -----------------------------------
+
+
+-----------------------------------
 Smart Contract Functions:
            listCases
           Lists all the registered cases.
@@ -34,9 +37,6 @@ Smart Contract Functions:
            Lawyer adds Proof as Prosecutor
            decision
            Only judge adds the decision if true than money is returned to plaintiff
-
------------------------------------
-
 
 Execution requirements:
 1.       React
