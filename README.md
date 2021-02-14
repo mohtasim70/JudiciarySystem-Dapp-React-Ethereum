@@ -16,40 +16,18 @@ Features:
 9.       All the steps are handled using the smart contract 
 -----------------------------------
 
-
------------------------------------
-Smart Contract Functions:
-           listCases
-          Lists all the registered cases.
-           setJudge
-           Sets the Judge for the Case
-           setLawyer
-           Lawyer can also be set
-           addCase
-           Civilians add cases using this function
-           setDefenderCase
-           If lawyer is defender for a case
-           setProsecutorCase
-           If lawyer is prosecutor for a case
-           addDefenderProof
-           Lawyer adds Proof as defender
-           addProsecutorProof
-           Lawyer adds Proof as Prosecutor
-           decision
-           Only judge adds the decision if true than money is returned to plaintiff
-
 Execution requirements:
 1.       React
 2.       npm install materialize-css@next
 3.       Ganache
 4.       Truffle
-
+------------------------------------
 Execution Steps:
-Turn on  Ganache QuickStart workspace
-Run truffle migrate on “ProjectIBC” folder
-Run Truffle console in this folder
-Now move to JudApp in “ProjectIBC” folder
-Now “npm install” in JudApp folder
-Now npm install materialize-css@next
-After this “npm start” to run react app
+           Turn on  Ganache QuickStart workspace
+           Run truffle migrate on “ProjectIBC” folder
+           Run Truffle console in this folder
+           Now move to JudApp in “ProjectIBC” folder
+           Now “npm install” in JudApp folder
+           Now npm install materialize-css@next
+           After this “npm start” to run react app
 
